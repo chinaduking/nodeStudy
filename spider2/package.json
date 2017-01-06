@@ -1,0 +1,16 @@
+{
+  "name": "spider2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "duking",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "superagent": "^3.3.1"
+  }
+}
